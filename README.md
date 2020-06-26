@@ -6,7 +6,7 @@ This is done through the use of Natural Language Processing and scikit-learn lib
 
 
 # Recommender systems:
-Recommender systems are those that are built using machine learning and NLP techniques which are used to identify user's interest and predict similar products that seeks users interest. There are two approaches in making recommender systems: **[collaborative filtering]**(https://en.wikipedia.org/wiki/Recommender_system) and **[content-based filtering]**(https://en.wikipedia.org/wiki/Recommender_system).
+Recommender systems are those that are built using machine learning and NLP techniques which are used to identify user's interest and predict similar products that seeks users interest. There are two approaches in making recommender systems: [collaborative filtering](https://en.wikipedia.org/wiki/Recommender_system) and [content-based filtering](https://en.wikipedia.org/wiki/Recommender_system).
 
 
 # Natural Language Processing:
